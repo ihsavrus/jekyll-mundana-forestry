@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to my blog
+title: Welcome to my blog!
 categories:
 - Jekyll
 image: assets/images/demo1.jpg
