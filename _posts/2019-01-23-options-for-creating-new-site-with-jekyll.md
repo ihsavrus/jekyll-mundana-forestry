@@ -6,8 +6,6 @@ categories: []
 image: "/assets/images/img-20191126-wa0012.jpg"
 
 ---
-LAST  TIME
-
 We all the remember the stuff we do it for the first time but do you ever remember the day when you were giving your last school test, having your last lunch with your best friends, scoring your last basket in basketball ring or last shot on cricket ground?
 
 Last time you got late for your school, stood according to your height in assembly, reciting last morning prayers. Last time you wear your school's summer or winter dress. (_Now I can assure you that all you are imaging now is your uniform dress colour, your assembly area, your standing position, and morning warmth of those winter days with that smoke coming out of your mouth_)
