@@ -3,7 +3,7 @@ layout: post
 categories: []
 title: " Expectation - Low or High. Who decides?"
 author: 'Urvashi Sogani '
-image: "/assets/images/squarequick_2020102705327117.png"
+image: ''
 
 ---
 For me expectations are a very beautiful and luxurious feeling and keeping it low and to limited people makes it more relevant and precious.
