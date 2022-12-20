@@ -8,20 +8,16 @@ mailchimp-list: https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a5
 include:
 - _pages
 permalink: "/:title/"
-plugins:
-- jekyll-feed
-- jekyll-sitemap
-- jekyll-paginate
-- jekyll-seo-tag
+plugins: []
 authors:
   sal:
-    name: Sal
-    site: https://www.wowthemes.net
-    avatar: "/assets/images/avatar1.jpg"
-    bio: Hi, I am Sal, the author of Mundana, the theme you're currently previewing.
-      I hope you like it!
-    email: wowthemesnet@gmail.com
-    twitter: https://twitter.com/wowthemesnet
+    name: Urvashi Sogani
+    site: urvashi.netlify.app
+    avatar: ''
+    bio: Hi, I am Urvashi Sogani. I am a Chartered Accountant by profession. Here
+      I am putting my opinions on the matters which I feel to share. ( No hard feeling)
+    email: jain99551@gmail.com
+    twitter: ''
   jane:
     name: Jane
     site: https://www.wowthemes.net
