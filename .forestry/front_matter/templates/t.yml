@@ -1,6 +1,6 @@
 ---
-label: t
-hide_body: true
+label: Urvashi
+hide_body: false
 fields:
 - type: text
   name: name
